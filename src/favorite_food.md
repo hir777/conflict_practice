@@ -1,3 +1,6 @@
 # favorite food
 
-coke, hamburger, fried chicken
+
+
+
+apple, tea, curry
